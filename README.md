@@ -14,6 +14,9 @@
   - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/ChadH2O/ActiveDirectoryconfig)
  
 
+- <b>Multicloud Computing</b>
+  - [Migrating an (On-Premises) application and database to a multicloud architecture]
+   
 
 
 
