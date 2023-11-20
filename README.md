@@ -1,6 +1,6 @@
-<h1>👋 Hi, I'm Chad, an <a href="https://www.linkedin.com/in/chad-waterman-1ba1a9a8/">IT Professional
+<h1>👋 Hi, I'm Chad, a <a href="https://www.linkedin.com/in/chad-waterman-1ba1a9a8/"> Cybersecurity Analyst
 
-<h2>Information Technology Projects 💻</h2>
+<h2>Information Technology & Cybersecurity Projects 💻</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ChadH2O/osticket-prereq)
